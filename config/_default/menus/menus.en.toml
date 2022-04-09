@@ -1,4 +1,4 @@
-[[docs]]
+/../ [[docs]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
@@ -81,3 +81,4 @@
 #   name = "Privacy"
 #   url = "/privacy-policy/"
 #   weight = 10
+/../
